@@ -7,5 +7,7 @@ from typing import Union
 from datetime import datetime
 
 mongostring = 'mongodb+srv://daniellemdanis:edUPuCnyBGfUxs6T@cluster0.wxuv1dv.mongodb.net/'
-#mongostring = 'mongodb+srv://daniellemdanis:edUPuCnyBGfUxs6T@cluster0.wxuv1dv.mongodb.net/project-4?keepAlive=true&poolSize=45&autoReconnect=true&socketTimeoutMS=7200000&connectTimeoutMS=7200000'
+
 mongo = MongoClient(mongostring)
+
+db = mongo['project-4']
