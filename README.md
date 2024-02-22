@@ -9,3 +9,12 @@ Open with Panda <br>
 Exploratory Data Visualization with Matplotlib <br>
 Test, train and split the data for the Regression Model <br>
 Establish Accuracy of the model Results visualization
+
+
+How To Download Our Cleaned Data as CSV:
+
+1. Open Mongo Compass
+2. Connect to our cluster using connection our connection string : mongodb+srv://daniellemdanis:edUPuCnyBGfUxs6T@cluster0.wxuv1dv.mongodb.net/
+3. Go to the collection traffic_accident2
+4. Click "EXPORT DATA"
+5. Export to CSV
