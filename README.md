@@ -38,6 +38,7 @@ Data source: https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
  **Predictory Analysis using Machine Learning Alogrithms**
 
  Logistic Regression: 
+ 
 
  Random Forrest Model:
 
