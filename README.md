@@ -6,7 +6,7 @@
 
 Read the data through Cloud MongoDB and clean it <br>
 Open with Panda <br>
-Exploratory Data Visualization with Plotly <br>
+Exploratory Data Visualization with MatplotLib <br>
 Test, train and split the data for the Regression Model <br>
 Establish Accuracy of the model Results with visualizations
 
